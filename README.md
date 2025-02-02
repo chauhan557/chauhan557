@@ -9,9 +9,9 @@ Passionate Data Analyst with expertise in extracting meaningful insights from ra
   <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" alt="SQL" width="50" height="50"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="50" height="50"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="Excel" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Power_BI_logo.svg/512px-Power_BI_logo.svg.png" alt="Power BI" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="50" height="50"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" alt="JIRA" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/MySQL_logo.svg/512px-MySQL_logo.svg.png" alt="MySQL" width="50" height="50"/>
+  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="50" height="50"/>
 </p>
 
