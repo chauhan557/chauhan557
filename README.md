@@ -7,7 +7,7 @@ Passionate Data Analyst with expertise in extracting meaningful insights from ra
 ## 🔥 Skills & Tools
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" alt="SQL" width="50" height="50"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="50" height="50"/>
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python" width="50" height="50"/>
   <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="Excel" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="50" height="50"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" alt="JIRA" width="50" height="50"/>
