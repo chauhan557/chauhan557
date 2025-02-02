@@ -21,9 +21,7 @@ Passionate Data Analyst with expertise in extracting meaningful insights from ra
 - **Business Intelligence & Reporting**: Power BI, DAX
 - **Project Management**: Agile, JIRA, Asana
 - **Other Tools**: Google Colab, Jupyter Notebook
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+- **Soft Skills**: Problem solving, Critica thinking, Attention to detail
 
 ## 📫 Let's Connect
 <p align="center">
