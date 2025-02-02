@@ -27,6 +27,6 @@ Passionate Data Analyst with expertise in extracting meaningful insights from ra
 <p align="center">
   <a href="https://https://www.linkedin.com/in/rishabh-chauhan-ba31a2279/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="50" height="50"/></a>
   <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" alt="Portfolio" width="50" height="50"/></a>
-  <a href="mailto:chayhanrishabh2305@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="50" height="50"/></a>
+  <a href="mailto:chauhanrishabh2305@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="50" height="50"/></a>
 </p>
 
